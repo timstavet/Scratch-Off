@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: Winning Restart
+  m_Controller: {fileID: 9100000, guid: 6320ac4bcb98a5147961b1498291607b, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: b8bad0c110a429a41b678614e5d0a079, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 02f0a04222c53aa4492a9dbc4d2e6c10, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 31c5df96148778847a7191353ea4dea8, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 5c608ff75b1a8144fb0b6c5d328b7169, type: 2}
